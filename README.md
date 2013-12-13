@@ -23,3 +23,7 @@ The logo breaks several design guidelines, is unsuited for print processes, hard
 4. This is a non-commercial project. Nobody gets money for it.
 5. All results (final or in-development) are open-source.
 6. The logo should fit current print/web/broadcast standards and should contains vector-, pixel- and css-based versions (css-only and icon-fonts).
+
+### The way to go...
+
+Potential way to go: On JSConf EU 2011 a logo for JavaScript has been announced - and it has become highly accepted by the community. https://github.com/voodootikigod/logo.js
