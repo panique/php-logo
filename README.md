@@ -27,3 +27,7 @@ The logo breaks several design guidelines, is unsuited for print processes, hard
 ### The way to go...
 
 Potential way to go: On JSConf EU 2011 a logo for JavaScript has been announced - and it has become highly accepted by the community. https://github.com/voodootikigod/logo.js
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/panique/php-logo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
