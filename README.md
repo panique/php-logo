@@ -45,3 +45,5 @@ by the community. https://github.com/voodootikigod/logo.js
 2. A professional-looking variation of the current one, .png:
 
 ![php logo way to go](php-logo.png)
+
+*Side-fact: The above logo has been used in the official PHP article on english Wikipedia! Looks like that's the right way to go.*
